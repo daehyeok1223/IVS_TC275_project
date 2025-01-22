@@ -1,5 +1,7 @@
 # IVS_TC275_project
-[Infineon-TC27x_D-step-UM-v02_02-EN.pdf](https://github.com/user-attachments/files/18500530/Infineon-TC27x_D-step-UM-v02_02-EN.pdf)[ShieldBuddy User Manual.pdf](https://github.com/user-attachments/files/18500531/ShieldBuddy.User.Manual.pdf)
+[Infineon-TC27x_D-step-UM-v02_02-EN.pdf](https://github.com/user-attachments/files/18500530/Infineon-TC27x_D-step-UM-v02_02-EN.pdf)[ShieldBuddy User Manual.pdf]
+
+[https://github.com/user-attachments/files/18500531/ShieldBuddy.User.Manual.pdf]
 
 <pinmap>
 
